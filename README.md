@@ -1,4 +1,4 @@
-# tanaman_hias_mjlk
+# Sistem Informasi Tanaman Hias Majalengka
 Sistem Informasi Tanaman Hias di Kabupaten Majalengka adalah Sistem Informasi tentang penjualan produk bunga / tanaman hias yang ada di kabupaten Majalengka. Sistem ini dibuat oleh Dea Juwita Suwardi dengan menggunakan framework CodeIgniter 3 dan untuk desain tampilannya menggunakan Bootstrap.
 
 ## Quickstart
