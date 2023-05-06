@@ -3,6 +3,6 @@ Sistem Informasi Tanaman Hias di Kabupaten Majalengka adalah Sistem Informasi te
 
 ## Quickstart
 Jika di local :
--Ubah nama folder menjadi 'SITAHI'
--Buat database dengan nama 'db_sithai'
--Import file db_sithai.sql (yang terdapat di folder database) ke database yang telah dibuat sebelumnya.
+- Ubah nama folder menjadi 'SITAHI'
+- Buat database dengan nama 'db_sithai'
+- Import file db_sithai.sql (yang terdapat di folder database) ke database yang telah dibuat sebelumnya.
