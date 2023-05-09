@@ -11,8 +11,8 @@ Sistem Informasi Tanaman Hias di Kabupaten Majalengka adalah Sistem Informasi te
 ## Hasil yang telah dicapai : 
 - Sistem ini telah digunakan Dea Juwita Suwardi sebagai project pada mata kuliah Kerja Praktek. 
 - Sistem ini telah di bahas dan di tulis dalam sebuah jurnal, sebagai tugas / syarat menjadi pemakalah Dea Juwita Suwardi.
-- Jurnal tersebut sudah di publish, dan untuk link nya :  [Sistem Informasi Tanaman Hias Di Kabupaten Majalengka Berbasis Web](http://ojs.udb.ac.id/index.php/Senatib/article/download/1805/1422)
-- Sistem ini kemudian dikembangkan oleh Dea Juwita Suwardi dan dijadikan project pada mata kuliah Tugas Akhir sebagai syarat kelulusan kuliah S1 Informatika di Universitas Majalengka. 
+- Jurnal tersebut sudah di publish, dan untuk link nya :  [Sistem Informasi Tanaman Hias Di Kabupaten Majalengka Berbasis Web](http://ojs.udb.ac.id/index.php/Senatib/article/download/1805/1422) .
+- Sistem ini kemudian dikembangkan oleh Dea Juwita Suwardi dan dijadikan project pada mata kuliah Tugas Akhir sebagai syarat kelulusan kuliah S1 Informatika di [Universitas Majalengka](https://unma.ac.id/). 
 
 ## Quickstart
 - (Jika di local) Ubah nama folder menjadi 'SITAHI'
