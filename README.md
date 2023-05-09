@@ -15,9 +15,8 @@ Sistem Informasi Tanaman Hias di Kabupaten Majalengka adalah Sistem Informasi te
 - Sistem ini kemudian dikembangkan oleh Dea Juwita Suwardi dan dijadikan project pada mata kuliah Tugas Akhir sebagai syarat kelulusan kuliah S1 Informatika di Universitas Majalengka. 
 
 ## Quickstart
-Jika di local :
-- Ubah nama folder menjadi 'SITAHI'
-- Buat database dengan nama 'db_tanaman_hias'
+- (Jika di local) Ubah nama folder menjadi 'SITAHI'
+- (Jika di local) Buat database dengan nama 'db_tanaman_hias'
 - Import file db_tanaman_hias.sql (yang terdapat di folder database) ke database yang telah dibuat.
 - Akses Login : <br>
 		Sebagai Admin <br>
